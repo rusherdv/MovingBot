@@ -29,7 +29,7 @@ This bot move a user to the all channels that exist in the server
 
  ▶️ **|** **Usage**
 
-1. Create a new application on the Discord Developer portal.
+1. Create a new application on the <a href="https://discord.com/developers/docs/intro">Discord Developer portal</a>.
 2. Fill out the application details and create a BOT.
 3. Show the TOKEN and put it in the file.
 4. Install Discord.py library for Python
