@@ -20,14 +20,14 @@ This bot move a user to the all channels that exist in the server
 
 <br>
 
-** ⚙️ | Install**
+ ⚙️ ** | Install**
 
 1. Open CMD or Python terminal
 2. Then put: pip install discord
 
 <br>
 
-** ▶️ | Usage**
+ ▶️ ** | Usage**
 
 1. Create a new application on the Discord Developer portal.
 2. Fill out the application details and create a BOT.
@@ -38,7 +38,7 @@ This bot move a user to the all channels that exist in the server
 
 <br>
 
-** 📝 | Contact**
+ 📝 ** | Contact**
 
 - Discord: rusher#3981
 - Github: <a href="https://github.com/rusherdv">@rusherdv</a>
