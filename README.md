@@ -20,7 +20,7 @@ This bot move a user to the all channels that exist in the server
 
 <br>
 
- ⚙️ ** | Install**
+ ⚙️ **|** **Install**
 
 1. Open CMD or Python terminal
 2. Then put: pip install discord
