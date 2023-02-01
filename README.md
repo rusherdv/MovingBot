@@ -18,14 +18,14 @@ It includes 2 commands
 
 This bot move a user to the all channels that exist in the server
 
-<br>
+<hr>
 
  ⚙️ **|** **Install**
 
 1. Open CMD or Python terminal
 2. Then put: pip install discord
 
-<br>
+<hr>
 
  ▶️ **|** **Usage**
 
@@ -36,11 +36,13 @@ This bot move a user to the all channels that exist in the server
 5. Run the file and wait to the start of the BOT
 6. Put in channel: !move @user times
 
-<br>
+<hr>
 
  📝 **|** **Contact**
 
 - Discord: rusher#3981
 - Github: <a href="https://github.com/rusherdv">@rusherdv</a>
+
+<hr>
 
 This is my first Discord BOT on python!
